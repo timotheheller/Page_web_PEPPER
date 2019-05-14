@@ -1,0 +1,46 @@
+.fond {
+
+color:black;
+background-color:black;
+background-image:url(Voie_Lactee.jpg);
+background-attachement:fixed;
+
+      }
+
+
+h1 {
+
+color:white;
+
+}
+
+h2 {
+
+color:white;
+
+}
+
+th {
+
+color:white;
+
+}
+
+.lien {
+
+color:white;
+
+}
+
+.lien2 {
+
+color:red;
+
+}
+
+.form1 {
+
+ background-color:white;
+color:white;
+
+}
